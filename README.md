@@ -8,7 +8,7 @@ This project focuses on analyzing bank marketing data to identify key customer s
 * **[Analysis Notebook](bank_analysis.ipynb)**
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/ZlotyCode/Bank-data-dashboard/main/dashboard/dashboard.png)
 
 ## 🛠️ Tech Stack
 * **Python (Pandas, NumPy)** – Data cleaning, feature engineering, and preprocessing.
